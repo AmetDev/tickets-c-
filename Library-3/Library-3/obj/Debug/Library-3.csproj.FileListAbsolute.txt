@@ -10,3 +10,15 @@ C:\Users\amets\source\repos\Library-3\Library-3\obj\Debug\Library-3.exe
 C:\Users\amets\source\repos\Library-3\Library-3\obj\Debug\Library-3.pdb
 C:\Users\amets\source\repos\Library-3\Library-3\obj\Debug\Library_3.Add.resources
 C:\Users\amets\source\repos\Library-3\Library-3\obj\Debug\Library_3.Edit.resources
+C:\Users\amets\OneDrive\Рабочий стол\tickets\Library-3\Library-3\bin\Debug\Library-3.exe.config
+C:\Users\amets\OneDrive\Рабочий стол\tickets\Library-3\Library-3\bin\Debug\Library-3.exe
+C:\Users\amets\OneDrive\Рабочий стол\tickets\Library-3\Library-3\bin\Debug\Library-3.pdb
+C:\Users\amets\OneDrive\Рабочий стол\tickets\Library-3\Library-3\obj\Debug\Library-3.csproj.AssemblyReference.cache
+C:\Users\amets\OneDrive\Рабочий стол\tickets\Library-3\Library-3\obj\Debug\Library_3.Add.resources
+C:\Users\amets\OneDrive\Рабочий стол\tickets\Library-3\Library-3\obj\Debug\Library_3.Edit.resources
+C:\Users\amets\OneDrive\Рабочий стол\tickets\Library-3\Library-3\obj\Debug\Library_3.Form1.resources
+C:\Users\amets\OneDrive\Рабочий стол\tickets\Library-3\Library-3\obj\Debug\Library_3.Properties.Resources.resources
+C:\Users\amets\OneDrive\Рабочий стол\tickets\Library-3\Library-3\obj\Debug\Library-3.csproj.GenerateResource.cache
+C:\Users\amets\OneDrive\Рабочий стол\tickets\Library-3\Library-3\obj\Debug\Library-3.csproj.CoreCompileInputs.cache
+C:\Users\amets\OneDrive\Рабочий стол\tickets\Library-3\Library-3\obj\Debug\Library-3.exe
+C:\Users\amets\OneDrive\Рабочий стол\tickets\Library-3\Library-3\obj\Debug\Library-3.pdb

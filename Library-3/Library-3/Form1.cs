@@ -55,5 +55,10 @@ namespace Library_3
             edit.Show();
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
