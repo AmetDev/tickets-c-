@@ -1,0 +1,12 @@
+C:\Users\amets\source\repos\AVTOGARAJ\AVTOGARAJ\bin\Debug\AVTOGARAJ.exe.config
+C:\Users\amets\source\repos\AVTOGARAJ\AVTOGARAJ\bin\Debug\AVTOGARAJ.exe
+C:\Users\amets\source\repos\AVTOGARAJ\AVTOGARAJ\bin\Debug\AVTOGARAJ.pdb
+C:\Users\amets\source\repos\AVTOGARAJ\AVTOGARAJ\obj\Debug\AVTOGARAJ.csproj.AssemblyReference.cache
+C:\Users\amets\source\repos\AVTOGARAJ\AVTOGARAJ\obj\Debug\AVTOGARAJ.Form1.resources
+C:\Users\amets\source\repos\AVTOGARAJ\AVTOGARAJ\obj\Debug\AVTOGARAJ.Properties.Resources.resources
+C:\Users\amets\source\repos\AVTOGARAJ\AVTOGARAJ\obj\Debug\AVTOGARAJ.csproj.GenerateResource.cache
+C:\Users\amets\source\repos\AVTOGARAJ\AVTOGARAJ\obj\Debug\AVTOGARAJ.csproj.CoreCompileInputs.cache
+C:\Users\amets\source\repos\AVTOGARAJ\AVTOGARAJ\obj\Debug\AVTOGARAJ.exe
+C:\Users\amets\source\repos\AVTOGARAJ\AVTOGARAJ\obj\Debug\AVTOGARAJ.pdb
+C:\Users\amets\source\repos\AVTOGARAJ\AVTOGARAJ\obj\Debug\AVTOGARAJ.Add.resources
+C:\Users\amets\source\repos\AVTOGARAJ\AVTOGARAJ\obj\Debug\AVTOGARAJ.Edit.resources
