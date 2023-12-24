@@ -1,0 +1,12 @@
+C:\Users\amets\source\repos\Tovar\Tovar\bin\Debug\Tovar.exe.config
+C:\Users\amets\source\repos\Tovar\Tovar\bin\Debug\Tovar.exe
+C:\Users\amets\source\repos\Tovar\Tovar\bin\Debug\Tovar.pdb
+C:\Users\amets\source\repos\Tovar\Tovar\obj\Debug\Tovar.csproj.AssemblyReference.cache
+C:\Users\amets\source\repos\Tovar\Tovar\obj\Debug\Tovar.Form1.resources
+C:\Users\amets\source\repos\Tovar\Tovar\obj\Debug\Tovar.Properties.Resources.resources
+C:\Users\amets\source\repos\Tovar\Tovar\obj\Debug\Tovar.csproj.GenerateResource.cache
+C:\Users\amets\source\repos\Tovar\Tovar\obj\Debug\Tovar.csproj.CoreCompileInputs.cache
+C:\Users\amets\source\repos\Tovar\Tovar\obj\Debug\Tovar.exe
+C:\Users\amets\source\repos\Tovar\Tovar\obj\Debug\Tovar.pdb
+C:\Users\amets\source\repos\Tovar\Tovar\obj\Debug\Tovar.Add.resources
+C:\Users\amets\source\repos\Tovar\Tovar\obj\Debug\Tovar.Edit.resources
