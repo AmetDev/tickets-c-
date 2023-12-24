@@ -141,6 +141,7 @@
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Name = "Edit";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Edit";
             ((System.ComponentModel.ISupportInitialize)(this.склад_товаровDataSet1)).EndInit();
             this.ResumeLayout(false);
