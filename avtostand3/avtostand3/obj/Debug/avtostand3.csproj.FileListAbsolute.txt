@@ -10,3 +10,15 @@ C:\Users\amets\source\repos\avtostand3\avtostand3\obj\Debug\avtostand3.exe
 C:\Users\amets\source\repos\avtostand3\avtostand3\obj\Debug\avtostand3.pdb
 C:\Users\amets\source\repos\avtostand3\avtostand3\obj\Debug\avtostand3.Add.resources
 C:\Users\amets\source\repos\avtostand3\avtostand3\obj\Debug\avtostand3.Edit.resources
+C:\Users\amets\OneDrive\Рабочий стол\tickets\avtostand3\avtostand3\bin\Debug\avtostand3.exe.config
+C:\Users\amets\OneDrive\Рабочий стол\tickets\avtostand3\avtostand3\bin\Debug\avtostand3.exe
+C:\Users\amets\OneDrive\Рабочий стол\tickets\avtostand3\avtostand3\bin\Debug\avtostand3.pdb
+C:\Users\amets\OneDrive\Рабочий стол\tickets\avtostand3\avtostand3\obj\Debug\avtostand3.csproj.AssemblyReference.cache
+C:\Users\amets\OneDrive\Рабочий стол\tickets\avtostand3\avtostand3\obj\Debug\avtostand3.Add.resources
+C:\Users\amets\OneDrive\Рабочий стол\tickets\avtostand3\avtostand3\obj\Debug\avtostand3.Edit.resources
+C:\Users\amets\OneDrive\Рабочий стол\tickets\avtostand3\avtostand3\obj\Debug\avtostand3.Form1.resources
+C:\Users\amets\OneDrive\Рабочий стол\tickets\avtostand3\avtostand3\obj\Debug\avtostand3.Properties.Resources.resources
+C:\Users\amets\OneDrive\Рабочий стол\tickets\avtostand3\avtostand3\obj\Debug\avtostand3.csproj.GenerateResource.cache
+C:\Users\amets\OneDrive\Рабочий стол\tickets\avtostand3\avtostand3\obj\Debug\avtostand3.csproj.CoreCompileInputs.cache
+C:\Users\amets\OneDrive\Рабочий стол\tickets\avtostand3\avtostand3\obj\Debug\avtostand3.exe
+C:\Users\amets\OneDrive\Рабочий стол\tickets\avtostand3\avtostand3\obj\Debug\avtostand3.pdb
